@@ -1,3 +1,30 @@
+ 1005  gnuplot>
+ 1006  nano 180.c
+ 1007  gcc 180.c
+ 1008  nano 180.c
+ 1009  idle
+ 1010  cd darbi
+ 1011  idle &
+ 1012  idle
+ 1013  nano a.py
+ 1014  gcc a.py
+ 1015  nano a.py
+ 1016  gcc a.py
+ 1017  clear
+ 1018  idle
+ 1019  mkdir darbi
+ 1020  cd darbi
+ 1021  cd L17
+ 1022  idle
+ 1023  d
+ 1024  gnuplot
+ 1025  python 190 > 90.dat
+ 1026  mkdir darbi
+ 1027  cd darbi
+ 1028  nano 190.py
+ 1029  gcc 190.c
+ 1030  gcc 190.py
+ 1031  nano 190.py
  1032  gunplot
  1033  gnuplot
  1034  ssh -X x161REB071@213.175.92.22
@@ -947,54 +974,27 @@
  1978  echo "Ievadiet jūsu summu ko vēlaties izmaksāt no bankomāta" > rtu
  1979  cat rtu
  1980  ssh x171REB156@213.175.92.22
- 1981  uname -r
- 1982  echo $0
- 1983  pwd
- 1984  whoami
- 1985  is
- 1986  Is
- 1987  ls
- 1988  cat/etc/*-release
- 1989  cat /etc/*-release
- 1990  lsb_release
- 1991  cd
- 1992  cd downloads
- 1993  cd ..
- 1994  whoami
- 1995  who
- 1996  pwd
- 1997  ls
- 1998  ls -l
- 1999  la -ls
- 2000  ls -l
- 2001  cd documents/
- 2002  ls -la
- 2003  pwd
- 2004  cd .
- 2005  pwd
- 2006  cd ..
- 2007  pwd
- 2008  cd ..
- 2009  pwd
- 2010  cd ..
- 2011  pwd
- 2012  cd ~
- 2013  pwd
- 2014  cd /
- 2015  pwd
- 2016  cd /home/user/
- 2017  pwd
- 2018  cd /
- 2019  pwd
- 2020  cd
- 2021  pwd
- 2022  ls
- 2023  pwd
- 2024  mkdir darbi
- 2025  mkdir darbi123
- 2026  ls -l
- 2027  cd darbi123
- 2028  pwd
- 2029  ls -la
- 2030  history
- 2031  history > history.txt
+ 1981  cd darbi123
+ 1982  ls
+ 1983  la
+ 1984  ls -la
+ 1985  $ echo Tecmint is a community of Linux Nerds
+ 1986  history
+ 1987  x=10
+ 1988  echo The value of variable x = $x
+ 1989  echo -e "Tecmint \bis \ba \bcommunity \bof \bLinux \bNerds"
+ 1990  echo -e "Tecmint \nis \na \ncommunity \nof \nLinux \nNerds"
+ 1991  echo -e "Tecmint \tis \ta \tcommunity \tof \tLinux \tNerds"
+ 1992  echo -e "\n\tTecmint \n\tis \n\ta \n\tcommunity \n\tof \n\tLinux \n\tNerds"
+ 1993  echo -e "\vTecmint \vis \va \vcommunity \vof \vLinux \vNerds"
+ 1994  echo -e "\n\vTecmint \n\vis \n\va \n\vcommunity \n\vof \n\vLinux \n\vNerds"
+ 1995  echo -e "\vTecmint \vis \va \vcommunity \vof \vLinux \vNerds"
+ 1996  echo -e "\vTecmint \n\vis \n\va \vcommunity \n\vof \n\vLinux \n\vNerds"
+ 1997  echo -e "Tecmint \ris a community of Linux Nerds"
+ 1998  echo -e "Tecmint is a community \cof Linux Nerds"
+ 1999  echo -n "Tecmint is a community of Linux Nerds"
+ 2000  echo -e "Tecmint is a community of \aLinux Nerds"
+ 2001  echo *
+ 2002  history
+ 2003  echo "Test Page" > tekst.txt
+ 2004  history > history.txt
