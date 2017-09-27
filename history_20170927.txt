@@ -1,49 +1,3 @@
- 1042  cd /~&
- 1043  cd /~$
- 1044  cd /~
- 1045  cd ~
- 1046  ls
- 1047  ..
- 1048  . . 
- 1049  cd ..
- 1050  pwd
- 1051  cd ..
- 1052  pwd
- 1053  cd ..
- 1054  pwd
- 1055  ls
- 1056  cd
- 1057  pwd
- 1058  ls
- 1059  cd
- 1060  touch
- 1061  touch aaa
- 1062  ls
- 1063  ls -l
- 1064  cp aaa bbb
- 1065  ls -l
- 1066  cp aaa /
- 1067  cp aaa /home/user/Desktop
- 1068  ls
- 1069  cd /home/user/Desktop
- 1070  ls -l
- 1071  ls
- 1072  ls /
- 1073  cd
- 1074  ls|echo
- 1075  ls|grep "ccc"
- 1076  pwd
- 1077  ls
- 1078  ls|grep "bbb"
- 1079  ls|grep "a"
- 1080  ls > rtu
- 1081  ls
- 1082  ls -l
- 1083  cat rtu
- 1084  echo "Sveiks student"
- 1085  echo "Ievadiet jūsu summu ko vēlaties izmaksāt no bankomāta"
- 1086  echo "Ievadiet jūsu summu ko vēlaties izmaksāt no bankomāta" > rtu
- 1087  cat rtu
  1088  pwd
  1089  /
  1090  echo "Ievadiet jūsu summu ko vēlaties izmaksāt no bankomāta" >> rtu
@@ -998,3 +952,49 @@
  2039  ls -la
  2040  nano git-upload 
  2041  history > history_20170927.txt
+ 2042  ls -l
+ 2043  ./git-upload 
+ 2044  nano shell_programming.sh
+ 2045  pwd
+ 2046  ls
+ 2047  ls -l
+ 2048  ls la
+ 2049  ls -la
+ 2050  who
+ 2051  echo "Shell veids $0"
+ 2052  ls -la
+ 2053  pwd
+ 2054  nano shell_programming.sh 
+ 2055  echo $0
+ 2056  echo$$
+ 2057  echo $$
+ 2058  echo $n
+ 2059  echo $#
+ 2060  echo $*
+ 2061  echo $@
+ 2062  echo $$
+ 2063  echo $!
+ 2064  nano shell_programming.sh 
+ 2065  shell_programming.sh 
+ 2066  ./shell_programming.sh 
+ 2067  ls -la
+ 2068  cat shell_programming.sh 
+ 2069  ./shell_programming.sh 
+ 2070  cat shell_programming.sh 
+ 2071  ./shell_programming.sh  arg1
+ 2072  cat shell_programming.sh 
+ 2073  ./shell_programming.sh  arg1
+ 2074  pwd
+ 2075  ./shell_programming.sh  arg2
+ 2076  ./shell_programming.sh  arg1 arg2
+ 2077  ./shell_programming.sh  arg1 arg2 arg3
+ 2078  nano shell_programming.sh 
+ 2079  ./shell_programming.sh 
+ 2080  nano shell_programming.sh 
+ 2081  ./shell_programming.sh 
+ 2082  nano shell_programming.sh 
+ 2083  ./shell_programming.sh arg1 arg2 
+ 2084  nano shell_programming.sh 
+ 2085  ./shell_programming.sh arg1 arg2
+ 2086  nano git-upload 
+ 2087  history > history_20170927.txt
