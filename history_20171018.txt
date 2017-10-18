@@ -1,0 +1,1000 @@
+ 1062  git-download
+ 1063  ls
+ 1064  pwd
+ 1065  PATH=$PATH:/home/user
+ 1066  echo $PATH
+ 1067  git-download
+ 1068  git-download.sh
+ 1069  ls -l git-download.sh
+ 1070  ls -l /bin/ls
+ 1071  chmod 744 git-download.sh
+ 1072  ls -l git-download.sh
+ 1073  git-download
+ 1074  git-download.sh
+ 1075  nano git-download.sh
+ 1076  rm -rf DMI
+ 1077  nano git-download.sh
+ 1078  git-download.sh
+ 1079  ls -l
+ 1080  mv git-download.sh git-download
+ 1081  ls-l
+ 1082  ls -l
+ 1083  git-download
+ 1084  cd DMI
+ 1085  ls -l
+ 1086  ls -la
+ 1087  mv ~/git-download ./
+ 1088  ls -l
+ 1089  ls -la
+ 1090  PATH=$PATH:~/DMI
+ 1091  git-download 
+ 1092  rm -rf DMI/
+ 1093  ls -l
+ 1094  nano git-upload
+ 1095  history > history_20170920.txt
+ 1096  ls -l
+ 1097  git-upload
+ 1098  nano git-upload
+ 1099  nano history_20170920.txt
+ 1100  git-upload
+ 1101  nano history_20170920.txt
+ 1102  git-upload
+ 1103  nano
+ 1104  ls-l
+ 1105  ls -l
+ 1106  cat git-download.sh
+ 1107  ls
+ 1108  whereis ls
+ 1109  ls -l /bin/ls
+ 1110  ls -l git-download.sh
+ 1111  echo $PATH
+ 1112  cat /bin/ls
+ 1113  pwd
+ 1114  echo $PATH
+ 1115  PATH=$PATH:/home/user/
+ 1116  echo $PATH
+ 1117  ls
+ 1118  /bin/ls
+ 1119  -/git-download.sh
+ 1120  git-download.sh
+ 1121  ls -l
+ 1122  ls -l /bin/ls
+ 1123  chmod 744 git-download.sh
+ 1124  ls -l
+ 1125  git-download.sh
+ 1126  cat git-download.sh
+ 1127  nano git-download.sh
+ 1128  git-download.sh
+ 1129  nano git-download.sh
+ 1130  git-download.sh
+ 1131  rm -rf DMI/
+ 1132  git-download.sh
+ 1133  ls
+ 1134  PATH:/home/user/
+ 1135  echo $PATH
+ 1136  ls
+ 1137  ls -l
+ 1138  mv git-download.sh git-download
+ 1139  ls
+ 1140  cat git-download
+ 1141  ls -l
+ 1142  cd DMI
+ 1143  ls -la
+ 1144  cp ../git-download 
+ 1145  cp ../git-download ./
+ 1146  ls -la
+ 1147  nano git-upload
+ 1148  cat git-upload
+ 1149  git-upload
+ 1150  history > history_20170921.txt
+ 1151  git-upload
+ 1152  cat git-upload
+ 1153  nano git-upload
+ 1154  nano history_20170921.txt
+ 1155  date
+ 1156  nano git-upload
+ 1157  nano history_20170921.txt
+ 1158  la
+ 1159  ls -A
+ 1160  ls -a
+ 1161  nano history_20170921.txt
+ 1162  nano inbox
+ 1163  ls -l
+ 1164  inpx
+ 1165  inbox
+ 1166  chmob 774 inbox
+ 1167  chmod 744 inbox
+ 1168  inbox
+ 1169  chmod 744
+ 1170  nano inbox
+ 1171  chmod 744 inbox
+ 1172  echo $PATH 
+ 1173  PATH=$PATH:~/DMI
+ 1174  echo $PATH 
+ 1175  chmod 744 inbox
+ 1176  inbox
+ 1177  history > history20170921.txt
+ 1178  nano  history20170921.txt
+ 1179  firefox
+ 1180  chrome
+ 1181  gchrome
+ 1182  firefox
+ 1183  pwd
+ 1184  DMI
+ 1185  cd /home/user/DMI
+ 1186  nano jauns
+ 1187  YYYYMMDD_HH_MM
+ 1188  mainigais=5
+ 1189  echo mainigais 
+ 1190  echo $mainigais 
+ 1191  mainigais="tekstik"
+ 1192  echo $mainigais 
+ 1193  mainigais=2,5
+ 1194  echo $mainigais 
+ 1195  mainigais=kisa
+ 1196  echo $mainigais 
+ 1197  mainigais="123"
+ 1198  echo $mainigais 
+ 1199  nano shell_treninjsh
+ 1200  ls
+ 1201  shell_treninjsh.sh
+ 1202  nano shell_treninjsh.sh
+ 1203  ./shell_treninjsh.sh
+ 1204  chmod 744 shell_treninjsh.sh
+ 1205  shell_treninjsh.sh
+ 1206  ./shell_treninjsh.sh
+ 1207  history > history20170921.txt
+ 1208  nano shell_treninjsh.sh
+ 1209  ./shell_treninjsh.sh
+ 1210  nano shell_treninjsh.sh
+ 1211  ./shell_treninjsh.sh
+ 1212  history > history20170921.txt
+ 1213  git-upload
+ 1214  ls -l
+ 1215  git-download
+ 1216  ./git-download
+ 1217  ped
+ 1218  pwd
+ 1219  ls-l
+ 1220  ls -l
+ 1221  ls
+ 1222  nano
+ 1223  ls-l
+ 1224  ls -l
+ 1225  cat git-download.sh
+ 1226  ls
+ 1227  git-download.sh
+ 1228  whereis ls
+ 1229  ls -l
+ 1230  ls -l /bin/ls
+ 1231  /bin/ls
+ 1232  echo PATH
+ 1233  echo $PATH
+ 1234  PATH=$PATH:-
+ 1235  echo $PATH
+ 1236  PATH=$PATH:-
+ 1237  echp $PATH
+ 1238  echo $PATH
+ 1239  git-download.sh
+ 1240  PATH=$PATH:~h
+ 1241  echo $PATH
+ 1242  git-download.sh
+ 1243  whereis ls
+ 1244  ls -l /bin/ls
+ 1245  ls -l git-download.sh
+ 1246  chmod 744 git-download.sh
+ 1247  ls -l git-download.sh
+ 1248  ls
+ 1249  ls -l
+ 1250  git-download.sh
+ 1251  rm -rf DMI
+ 1252  git-download.sh
+ 1253  cd
+ 1254  cd DMI
+ 1255  ls -l
+ 1256  rm git*
+ 1257  ls -l
+ 1258  pwd
+ 1259  ls -l
+ 1260  mv
+ 1261  mv /home/user/git-download.sh
+ 1262  mv ../git-download.sh ./
+ 1263  ls -l
+ 1264  ls
+ 1265  mv git-download.sh git-download
+ 1266  ls -l
+ 1267  git-download
+ 1268  PATH=$PATH:~/DMI
+ 1269  git-download
+ 1270  zajebis
+ 1271  ls -l
+ 1272  rm -rf DMI/
+ 1273  ls -l
+ 1274  nano git-upload
+ 1275  ls -l
+ 1276  ls -la
+ 1277  chmod 744 git-upload
+ 1278  ls -la
+ 1279  history > history_20170921.txt
+ 1280  ls -l
+ 1281  git-upload
+ 1282  exit
+ 1283  gethard
+ 1284  gethub
+ 1285  pornhub
+ 1286  firefox
+ 1287  ssh x171REB172@213.175.92.22
+ 1288  ls
+ 1289  ssh x171REB172@213.175.92.22
+ 1290  ?
+ 1291  a
+ 1292  .a.out
+ 1293  a.out
+ 1294  who
+ 1295  .
+ 1296  `
+ 1297  `
+ 1298  ~
+ 1299  ssh x171REB156@213.175.92.22
+ 1300  echo $$
+ 1301  ls -la
+ 1302  nano git-upload
+ 1303  ./git-upload
+ 1304  ls
+ 1305  echo $PATH
+ 1306  cat history_20170927.txt 
+ 1307  exit
+ 1308  git-download
+ 1309  rm -rf DMI
+ 1310  git clone https://github.com/Maksims222/DMI
+ 1311  ls -la
+ 1312  cd darbi20.09.17
+ 1313  ls -la
+ 1314  cd ..
+ 1315  cd DMI
+ 1316  ls -la
+ 1317  history
+ 1318  pwd
+ 1319  howami
+ 1320  whoami
+ 1321  ls
+ 1322  ls -la
+ 1323  nano
+ 1324  mainiigais=10
+ 1325  echo $mainiigais
+ 1326  echo $mainigais
+ 1327  maini_=20
+ 1328  echo $mainiigais_____
+ 1329  mainiigais1=50
+ 1330  echo $mainiigais1
+ 1331  pwd
+ 1332  nano
+ 1333  nano shell_programming.sh
+ 1334  ls -l
+ 1335  chmod 744 shell_programming.sh
+ 1336  ls -l
+ 1337  pwd
+ 1338  ./shell_programming.sh 
+ 1339  cat shell_programming.sh 
+ 1340  nano shell_programming.sh
+ 1341  ./shell_programming.sh 
+ 1342  nano shell_programming.sh
+ 1343  ./shell_programming.sh 
+ 1344  nano shell_programming.sh
+ 1345  ./shell_programming.sh 
+ 1346  nano shell_programming.sh
+ 1347  ./shell_programming.sh 
+ 1348  nano shell_programming.sh
+ 1349  ls -l
+ 1350  ls
+ 1351  pwd
+ 1352  ls -la
+ 1353  nano git-upload 
+ 1354  history > history_20170927.txt
+ 1355  ls -l
+ 1356  ./git-upload 
+ 1357  nano shell_programming.sh
+ 1358  pwd
+ 1359  ls
+ 1360  ls -l
+ 1361  ls la
+ 1362  ls -la
+ 1363  who
+ 1364  echo "Shell veids $0"
+ 1365  ls -la
+ 1366  pwd
+ 1367  nano shell_programming.sh 
+ 1368  echo $0
+ 1369  echo$$
+ 1370  echo $$
+ 1371  echo $n
+ 1372  echo $#
+ 1373  echo $*
+ 1374  echo $@
+ 1375  echo $$
+ 1376  echo $!
+ 1377  nano shell_programming.sh 
+ 1378  shell_programming.sh 
+ 1379  ./shell_programming.sh 
+ 1380  ls -la
+ 1381  cat shell_programming.sh 
+ 1382  ./shell_programming.sh 
+ 1383  cat shell_programming.sh 
+ 1384  ./shell_programming.sh  arg1
+ 1385  cat shell_programming.sh 
+ 1386  ./shell_programming.sh  arg1
+ 1387  pwd
+ 1388  ./shell_programming.sh  arg2
+ 1389  ./shell_programming.sh  arg1 arg2
+ 1390  ./shell_programming.sh  arg1 arg2 arg3
+ 1391  nano shell_programming.sh 
+ 1392  ./shell_programming.sh 
+ 1393  nano shell_programming.sh 
+ 1394  ./shell_programming.sh 
+ 1395  nano shell_programming.sh 
+ 1396  ./shell_programming.sh arg1 arg2 
+ 1397  nano shell_programming.sh 
+ 1398  ./shell_programming.sh arg1 arg2
+ 1399  nano git-upload 
+ 1400  history > history_20170927.txt
+ 1401  ls
+ 1402  PATH=$PHAT:./
+ 1403  git-upload 
+ 1404  PATH=$PATH:./
+ 1405  git-upload 
+ 1406  ./git-upload 
+ 1407  nano git-upload 
+ 1408  ls -la
+ 1409  ls
+ 1410  PHAT
+ 1411  pwd
+ 1412  echo $PATH
+ 1413  firefoxr
+ 1414  firefox
+ 1415  firefox &
+ 1416  git clone https://github.com/takuzuka/DMI.git
+ 1417  rm -rf DMI
+ 1418  git clone https://github.com/takuzuka/DMI.git
+ 1419  ls -l
+ 1420  cd DMI
+ 1421  ls -la
+ 1422  chmod 744 git-upload
+ 1423  ls -l
+ 1424  nano
+ 1425  TEST
+ 1426  nano TEST
+ 1427  TEST
+ 1428  ls -l
+ 1429  pwd
+ 1430  nano TEST
+ 1431  nano git-download
+ 1432  nano TEST
+ 1433  cat TEST
+ 1434  nano TEST
+ 1435  cat TEST
+ 1436  nano TEST
+ 1437  rm TEST
+ 1438  name="Vards Uzvards"
+ 1439  NAME="Vards Uzvards"
+ 1440  mainiigais_1=10
+ 1441  echo $mainiigais_1
+ 1442  ls -l
+ 1443  mainiigais_2=20
+ 1444  echo $mainiigais_2=20
+ 1445  x=10
+ 1446  y=50
+ 1447  nano shell_example.sh
+ 1448  ls -la
+ 1449  cat shell_example.sh
+ 1450  PATH=$PATH:~/DMI
+ 1451  echo $PATH
+ 1452  chmod 744 shell_example.sh
+ 1453  ls -la
+ 1454  shell_example.sh
+ 1455  ls -la
+ 1456  nano shell_example.sh 
+ 1457  cat shell_example.sh 
+ 1458  shell_example.sh 
+ 1459  nano shell_example.sh 
+ 1460  shell_example.sh 
+ 1461  nano shell_example.sh 
+ 1462  shell_example.sh 
+ 1463  pwd
+ 1464  ls -l
+ 1465  history > history_20170927.txt
+ 1466  ls -la
+ 1467  nano git-upload 
+ 1468  git-upload
+ 1469  echo $0
+ 1470  echo $#
+ 1471  echo $*
+ 1472  echo $@
+ 1473  echo $?
+ 1474  echo $$
+ 1475  echo $!
+ 1476  nano shell_example.sh 
+ 1477  shell_example.sh 
+ 1478  nano shell_example.sh 
+ 1479  shell_example.sh 
+ 1480  nano shell_example.sh 
+ 1481  shell_example.sh 
+ 1482  nano shell_example.sh 
+ 1483  shell_example.sh arg1 arg2 arg3
+ 1484  shell_example.sh arg1 arg2
+ 1485  nano shell_example.sh 
+ 1486  shell_example.sh arg1 arg2 arg3
+ 1487  nano shell_example.sh 
+ 1488  shell_example.sh arg1 arg2 arg3
+ 1489  nano shell_example.sh 
+ 1490  shell_example.sh arg1 arg2 arg3
+ 1491  nano shell_example.sh 
+ 1492  shell_example.sh 
+ 1493  nano shell_example.sh 
+ 1494  shell_example.sh 
+ 1495  shell_example.sh arg1
+ 1496  shell_example.sh arg1 arg2
+ 1497  nano shell_example.sh 
+ 1498  shell_example.sh arg1 arg2
+ 1499  nano shell_example.sh 
+ 1500  shell_example.sh
+ 1501  shell_example.sh arg1
+ 1502  shell_example.sh arg1 arg2
+ 1503  shell_example.sh arg1 arg2 arg3
+ 1504  nano shell_example.sh 
+ 1505  shell_example.sh arg1 arg2 arg3
+ 1506  nano shell_example.sh 
+ 1507  shell_example.sh arg1 arg2 arg3
+ 1508  nano shell_example.sh 
+ 1509  shell_example.sh
+ 1510  nano shell_example.sh 
+ 1511  shell_example.sh
+ 1512  nano shell_example.sh 
+ 1513  shell_example.sh
+ 1514  nano shell_example.sh 
+ 1515  shell_example.sh
+ 1516  nano shell_example.sh 
+ 1517  shell_example.sh
+ 1518  nano git-upload 
+ 1519  history > history_20170927.txt
+ 1520  git-upload
+ 1521  cd ../
+ 1522  pwd
+ 1523  chromium-browser 
+ 1524  ls -l
+ 1525  git clone https://github.com/AnnaMilana/DMI
+ 1526  rmdir DMI
+ 1527  rm-rf
+ 1528  rm-rd DMI
+ 1529  rm-rf DMI
+ 1530  rm -rf DMI
+ 1531  git clone https://github.com/AnnaMilana/DMI
+ 1532  cd DMI
+ 1533  ls -l
+ 1534  nano shell_examples.sh
+ 1535  ls-l
+ 1536  ls -l
+ 1537  shell_examples.sh
+ 1538  cat shell_examples.sh
+ 1539  pwd
+ 1540  /home/user/DMI/shell_examples.sh
+ 1541  chmod 744 shell_examples.sh
+ 1542  ls -l
+ 1543  shell_examples.sh
+ 1544  ~/DMI/shell_examples.sh
+ 1545  echo $PATH
+ 1546  PATH=$PATH:/home/user/
+ 1547  ls
+ 1548  /bin/ls
+ 1549  -/shell_examples.sh
+ 1550  ~/shell_examples.sh
+ 1551  shell_examples.sh
+ 1552  ls -l
+ 1553  ./shell_examples.sh
+ 1554  cat shell_examples.sh
+ 1555  nano  shell_examples.sh
+ 1556  ./shell_examples.sh
+ 1557  cat shell_examples.sh
+ 1558  nano  shell_examples.sh
+ 1559  ./shell_examples.sh
+ 1560  nano  shell_examples.sh
+ 1561  ./shell_examples.sh
+ 1562  cat shell_examples.sh
+ 1563  nano  shell_examples.sh
+ 1564  echo $0
+ 1565  nano  shell_examples.sh
+ 1566  ./shell_examples.sh
+ 1567  ~/shell_examples.sh
+ 1568  ~/DMI/shell_examples.sh
+ 1569  $n
+ 1570  nano  shell_examples.sh
+ 1571  ~/DMI/shell_examples.sh
+ 1572  nano  shell_examples.sh
+ 1573  ~/DMI/shell_examples.sh
+ 1574  ./shell_examples.sh arg1
+ 1575  ./shell_examples.sh arg1 arg2
+ 1576  ./shell_examples.sh arg1 arg2 arg3
+ 1577  ./shell_examples.sh arg5 arg3 arg83
+ 1578  ./shell_examples.sh arg5 arg3 arg8
+ 1579  nano  shell_examples.sh
+ 1580  ./shell_examples.sh arg5 arg3 arg8
+ 1581  ./shell_examples.sh
+ 1582  nano  shell_examples.sh
+ 1583  ./shell_examples.sh
+ 1584  ./shell_examples.sh arg argg ar4ggg
+ 1585  history > history29092017.txt
+ 1586  ls -l
+ 1587  history290092017.txt
+ 1588  history29092017.txt
+ 1589  nano git-upload
+ 1590  chmod 744 git-upload
+ 1591  history > history_29092017.txt
+ 1592  ls -l
+ 1593  ./git-upload
+ 1594  clone https://github.com/lazdlv/DMI.git
+ 1595  git clone https://github.com/lazdlv/DMI.git
+ 1596  rm -rf DMI
+ 1597  git clone https://github.com/lazdlv/DMI.git
+ 1598  ls -l
+ 1599  pwd
+ 1600  ls -la
+ 1601  cd DMI/
+ 1602  pwd
+ 1603  ls -la
+ 1604  mkdir temp
+ 1605  ls -la
+ 1606  nano
+ 1607  mainigais=10
+ 1608  echo $mainigais
+ 1609  1_mainigais=20
+ 1610  mainigais_1=30
+ 1611  echo $1_mainigais
+ 1612  nano
+ 1613  nano shell_exple.sh
+ 1614  ls -la
+ 1615  NAME="Vārds Uzvārds"
+ 1616  echo $NAME
+ 1617  chmod 744 shell_exple.sh
+ 1618  ls -l
+ 1619  shell_exple.sh
+ 1620  echo $PATH
+ 1621  pwd
+ 1622  /home/user/DMI/shell
+ 1623  /home/user/DMI/shell_exple.sh
+ 1624  nano
+ 1625  nano shell_exple.sh
+ 1626  ./shell_exple.sh
+ 1627  shell_exple.sh
+ 1628  /shell_exple.sh
+ 1629  ./shell_exple.sh
+ 1630  nano shell_exple.sh
+ 1631  ./shell_exple.sh
+ 1632  nano shell_exple.sh
+ 1633  ./shell_exple.sh
+ 1634  nano shell_exple.sh
+ 1635  ./shell_exple.sh
+ 1636  /home/user/DMI/shell_exple.sh
+ 1637  cat shell_exple.sh
+ 1638  nano shell_exple.sh
+ 1639  ./shell_exple.sh
+ 1640  echo $0
+ 1641  ./shell_exple.sh
+ 1642  nano shell_exple.sh
+ 1643  ./shell_exple.sh
+ 1644  ./shell_exple.sh arg1
+ 1645  ./shell_exple.sh arg1 arg2
+ 1646  ./shell_exple.sh arg1 arg2 arg69
+ 1647  ./shell_exple.sh arg1 arg2
+ 1648  nano shell_exple.sh
+ 1649  ./shell_exple.sh arg1 arg2
+ 1650  ./shell_exple.sh
+ 1651  echo $?
+ 1652  nano shell_exple.sh
+ 1653  touch y
+ 1654  y
+ 1655  chmod 744 y
+ 1656  ./y
+ 1657  echo $?
+ 1658  nano shell_exple.sh
+ 1659  ./shell_exple.sh
+ 1660  nano shell_exple.sh
+ 1661  ./shell_exple.sh
+ 1662  nano shell_exple.sh
+ 1663  ./shell_exple.sh
+ 1664  nano shell_exple.sh
+ 1665  ./shell_exple.sh
+ 1666  nanno git-upload
+ 1667  nano git-upload
+ 1668  git-upload
+ 1669  cd..
+ 1670  cd ..
+ 1671  git-upload
+ 1672  ls -l
+ 1673  git-upload
+ 1674  pwd
+ 1675  cd DMI
+ 1676  ls -la
+ 1677  git-upload
+ 1678  nano git-upload
+ 1679  git-upload
+ 1680  ./git-upload
+ 1681  exit
+ 1682  firefox
+ 1683  ssh -X x151RBC099@213.175.92.22
+ 1684  firefox
+ 1685  ls -l
+ 1686  git clone https://github.com/AnnaMilana/DMI
+ 1687  rmdir DMI
+ 1688  rm -rf DMI
+ 1689  git clone https://github.com/AnnaMilana/DMI
+ 1690  cd DMI
+ 1691  ls -l
+ 1692  nano shell_ezamples.sh
+ 1693  ls -l
+ 1694  cd DMI
+ 1695  ls -l
+ 1696  ../
+ 1697  cd ../
+ 1698  nano summa.sh
+ 1699  summma.sh
+ 1700  chmod 744 summa.sh
+ 1701  summa.sh
+ 1702  ls -l
+ 1703  ./summa.sh
+ 1704  nano summa.sh
+ 1705  ./summa.sh
+ 1706  nano summa.sh
+ 1707  ./summa.sh
+ 1708  nano summa.sh
+ 1709  ./summa.sh
+ 1710  val=' expr 2 + 2 * 2 / 4'
+ 1711  echo " $val"
+ 1712  val='expr 2 + 2 * 2 / 4'
+ 1713  echo " $val"
+ 1714  echo " tv : $val"
+ 1715  val='expr 2 + 2'
+ 1716  echo " tv : $val"
+ 1717  nano summa.sh
+ 1718  ./summa.sh
+ 1719  nano summa.sh
+ 1720  ./summa.sh
+ 1721  nano summa.sh
+ 1722  ./summa.sh
+ 1723  nano summa.sh
+ 1724  ./summa.sh
+ 1725  ls -l
+ 1726  ls -lt
+ 1727  nano summa.sh
+ 1728  ./summa.sh
+ 1729  nano summa.sh
+ 1730  ./summa.sh
+ 1731  nano summa.sh
+ 1732  ./summa.sh
+ 1733  nano summa.sh
+ 1734  ./summa.sh
+ 1735  nano summa.sh
+ 1736  ./summa.sh
+ 1737  nano summa.sh
+ 1738  ./summa.sh 20 10
+ 1739  nano summa.sh
+ 1740  ./summa.sh 20 10
+ 1741  ./summa.sh 30 10
+ 1742  nano summa.sh
+ 1743  ./summa.sh 30 10
+ 1744  nano summa.sh
+ 1745  ./summa.sh 30 10
+ 1746  nano summa.sh
+ 1747  ./summa.sh 30 10
+ 1748  nano summa.sh
+ 1749  ./summa.sh 30 10
+ 1750  ./summa.sh 10 10
+ 1751  nano summa.sh
+ 1752  ls -la
+ 1753  history > history_2017_10_05.txt
+ 1754  ls -l
+ 1755  nano git-upload
+ 1756  ./git-upload history_2017_10_05.txt
+ 1757  nano summa.sh
+ 1758  -ls -la
+ 1759  -ls
+ 1760  -l la
+ 1761  -l -la
+ 1762  -l
+ 1763  l
+ 1764  ls
+ 1765  ls -la
+ 1766  firefox
+ 1767  cd DMI
+ 1768  nano
+ 1769  chmod 744 s1.sh
+ 1770  ls -l
+ 1771  ./s1.sh
+ 1772  nano
+ 1773  nano s1.sh
+ 1774  nano shell_examples.sh nano
+ 1775  nano shell_operators_.sh
+ 1776  ls -l
+ 1777  chmod 744 shell_operators_.sh 
+ 1778  shell_operators_.sh
+ 1779  ls -l
+ 1780  shell_operators_.sh
+ 1781  ./shell_operators_.sh 
+ 1782  nano shell_operators_.sh
+ 1783  ./shell_operators_.sh 
+ 1784  nano shell_operators_.sh
+ 1785  ./shell_operators_.sh 
+ 1786  nano shell_operators_.sh
+ 1787  ./shell_operators_.sh 
+ 1788  gt-upload
+ 1789  git-upload
+ 1790  ./git-upload
+ 1791  git
+ 1792  ls -l
+ 1793  git-uploasd
+ 1794  git-upload
+ 1795  ./git-upload
+ 1796  nano git-upload 
+ 1797  ./git-upload
+ 1798  ./git-upload getutnet@gmail.co
+ 1799  ./git-upload getutnet@gmail.com
+ 1800  ./git-upload
+ 1801  ./git-upload lazdlv
+ 1802  ./git-upload
+ 1803  git-upload
+ 1804  ./git-upload DMI
+ 1805  github
+ 1806  cd ..
+ 1807  github
+ 1808  ./git-upload DMI
+ 1809  d
+ 1810  a
+ 1811  d
+ 1812  sd
+ 1813  a
+ 1814  rm
+ 1815  cd
+ 1816  cd ..
+ 1817  exit
+ 1818  cd DMI
+ 1819  git push -u origin master
+ 1820  git pull
+ 1821  cd ..
+ 1822  git push -u origin master
+ 1823  pwd
+ 1824  cd DMI/
+ 1825  ls -la
+ 1826  cat git-upload
+ 1827  history > history_20171005_.txt
+ 1828  nano git-upload 
+ 1829  ssh -x x171REB172@213.175.92.22
+ 1830  cd DMI
+ 1831  ls -l
+ 1832  nano shelloperators.sh 
+ 1833  ./shelloperators.sh 
+ 1834  nano shelloperators.sh 
+ 1835  ./shelloperators.sh 
+ 1836  nano shelloperators.sh 
+ 1837  ./shelloperators.sh 
+ 1838  nano shelloperators.sh 
+ 1839  ./shelloperators.sh 
+ 1840  nano shelloperators.sh 
+ 1841  ./shelloperators.sh 
+ 1842  ls
+ 1843  nano komentāriji.sh 
+ 1844  nano shelloperators.sh 
+ 1845  ./shelloperators.sh 
+ 1846  cat shelloperators.sh 
+ 1847  ./shelloperators.sh 
+ 1848  nano shelloperators.sh 
+ 1849  ./shelloperators.sh 
+ 1850  nano shelloperators.sh 
+ 1851  nano git-upload 
+ 1852  history > history_20171011_10_00.txt
+ 1853  ls
+ 1854  ./git-upload
+ 1855  firefox &
+ 1856  nano shell_programming.sh 
+ 1857  nano git-download 
+ 1858  nano shelloperators.sh 
+ 1859  ./shell_programming.sh 
+ 1860  nano shelloperators.sh 
+ 1861  nano shell_programming.sh 
+ 1862  nano shelloperators.sh 
+ 1863  ./shelloperators.sh 
+ 1864  nano shelloperators.sh 
+ 1865  ./shelloperators.sh 
+ 1866  ./shelloperators.sh 1 2
+ 1867  ./shelloperators.sh 228 1337
+ 1868  ./shelloperators.sh 9 7
+ 1869  ./shelloperators.sh 69 69
+ 1870  nano shell_programming.sh 
+ 1871  nano shelloperators.sh 
+ 1872  ./shelloperators.sh 1998 2017
+ 1873  pwd
+ 1874  ls
+ 1875  ls -r
+ 1876  ls -l
+ 1877  nano shelloperators.sh 
+ 1878  ./shelloperators.sh 3 5
+ 1879  nano shelloperators.sh 
+ 1880  ./shelloperators.sh 3 5
+ 1881  nano shelloperators.sh 
+ 1882  ./shelloperators.sh 3 5
+ 1883  nano shelloperators.sh 
+ 1884  ./shelloperators.sh 2 2
+ 1885  nano shelloperators.sh 
+ 1886  ./shelloperators.sh 2 2
+ 1887  ./shelloperators.sh 2 3
+ 1888  ./shelloperators.sh 2 2
+ 1889  ./shelloperators.sh 2 3
+ 1890  ./shelloperators.sh 987789987 9511589951
+ 1891  nano shelloperators.sh 
+ 1892  ./shelloperators.sh 2 5
+ 1893  ./shelloperators.sh 5 5
+ 1894  ./shelloperators.sh 
+ 1895  ./shelloperators.sh  5
+ 1896  ./shelloperators.sh 5
+ 1897  nano
+ 1898  nano git-upload 
+ 1899  history > history_20171011_11_50.txt
+ 1900  ls
+ 1901  ./git-upload 20171011_11_50
+ 1902  nano git-upload 
+ 1903  ./git-upload 20171011_11_50
+ 1904  nano git-upload
+ 1905  ./git-upload 20171011_11_50
+ 1906  ./shelloperators.sh 5
+ 1907  nano shelloperators.sh 
+ 1908  ./shelloperators.sh 5
+ 1909  ./shelloperators.sh 5 5
+ 1910  nano shelloperators.sh 
+ 1911  ./shelloperators.sh 5 5
+ 1912  ./shelloperators.sh 5 
+ 1913  firefox &
+ 1914  ls -l
+ 1915  git clone https://github.com/takuzuka/DMI.git
+ 1916  rmdir DMI
+ 1917  rmdir -rf DMI
+ 1918  rm -rf DMI
+ 1919  git clone https://github.com/takuzuka/DMI.git
+ 1920  cd DMI
+ 1921  ls -l
+ 1922  val=`expr 2+2`
+ 1923  echo "total : $val""
+ 1924  echo "total : $val"
+ 1925  chromium-browser 
+ 1926  cd DMI
+ 1927  val=`expr 2+2`
+ 1928  echo "total : $val"
+ 1929  val=`expr 2 + 2`
+ 1930  echo "total : $val"
+ 1931  val=`expr 10 * 20`
+ 1932  echo "total : $val"
+ 1933  a=10
+ 1934  b=20
+ 1935  val=`expr $a \* $b`
+ 1936  echo "a * b : $val"
+ 1937  if [ $a != $b ]; then echo "a is equal to b"; fi
+ 1938  echo " $val"
+ 1939  if [ $a != $b ]; then echo "a is equal to b"; fi
+ 1940  if [ $a != $b ]; then echo "a is not equal to b"; fi
+ 1941  a=10
+ 1942  b=10
+ 1943  if [ $a != $b ]; then echo "a is not equal to b"; fi
+ 1944  nano shell_operators.sh
+ 1945  ls -la
+ 1946  chmod 744 shell_operators.sh 
+ 1947  ls -la
+ 1948  ./shell_operators.sh 
+ 1949  nano shell_operators.sh 
+ 1950  ./shell_operators.sh 
+ 1951  nano shell_operators.sh 
+ 1952  ./shell_operators.sh 
+ 1953  nano shell_operators.sh 
+ 1954  ./shell_operators.sh 
+ 1955  nano shell_operators.sh 
+ 1956  ./shell_operators.sh 
+ 1957  nano shell_operators.sh 
+ 1958  ./shell_operators.sh 
+ 1959  nano shell_operators.sh 
+ 1960  ./shell_operators.sh 
+ 1961  nano git-upload
+ 1962  ls -la
+ 1963  history > history_20171011.txt
+ 1964  ./git-upload
+ 1965  nano shell_operators.sh 
+ 1966  ./shell_operators.sh 
+ 1967  nano shell_operators.sh 
+ 1968  ./shell_operators.sh 
+ 1969  nano shell_operators.sh 
+ 1970  ./shell_operators.sh 5 10
+ 1971  nano shell_operators.sh 
+ 1972  ./shell_operators.sh 5 10
+ 1973  nano shell_operators.sh 
+ 1974  ./shell_operators.sh 5 10
+ 1975  ./shell_operators.sh 66 10
+ 1976  nano shell_operators.sh 
+ 1977  ./shell_operators.sh 66 10
+ 1978  nano shell_operators.sh 
+ 1979  ./shell_operators.sh 66 10
+ 1980  nano shell_operators.sh 
+ 1981  ./shell_operators.sh 66 10
+ 1982  nano shell_operators.sh 
+ 1983  ./shell_operators.sh 66 10
+ 1984  ./shell_operators.sh 
+ 1985  ./shell_operators.sh 4
+ 1986  ./shell_operators.sh 44 22
+ 1987  nano dialogs.sh
+ 1988  chmod 744 dialogs.sh 
+ 1989  ./dialogs.sh 
+ 1990  nano dialogs.sh
+ 1991  ./dialogs.sh 
+ 1992  nano git-upload 
+ 1993  history > history_20171011.txt 
+ 1994  ./git-upload 20171011_15_30
+ 1995  su rtu
+ 1996  pwd
+ 1997  ls
+ 1998  cd DMI
+ 1999  ls
+ 2000  cd ..
+ 2001  nano shell_example.sh
+ 2002  firefox &
+ 2003  rm -rf DMI
+ 2004  ls
+ 2005  git clone https://github.com/Maksims222/DMI
+ 2006  ls -la
+ 2007  cd DMI
+ 2008  ls
+ 2009  nano shelloperators.sh 
+ 2010  ls -la
+ 2011  ls -l
+ 2012  nano dialogs.sh
+ 2013  ./shelloperators.sh 
+ 2014  ./shelloperators.sh 1 2
+ 2015  ./dialogs.sh
+ 2016  chmod 744 dialogs.sh
+ 2017  ls -l
+ 2018  ./dialogs.sh
+ 2019  ./dialogs.sh 2 5
+ 2020  ./dialogs.sh
+ 2021  nano dialogs.sh
+ 2022  ./dialogs.sh
+ 2023  ./dialogs.sh 
+ 2024  nano dialogs.sh
+ 2025  ./dialogs.sh 
+ 2026* nano s
+ 2027  nano dialogs.sh
+ 2028  ./dialogs.sh 
+ 2029  nano dialogs.sh
+ 2030  ./dialogs.sh 
+ 2031  ls -l
+ 2032  nano shelloperators.sh 
+ 2033  nano Lielaka_vertiba.sh
+ 2034  chmod 744 Lielaka_vertiba.sh
+ 2035  ls -l
+ 2036  ./Lielaka_vertiba.sh
+ 2037  ./Lielaka_vertiba.sh 4 5
+ 2038  nano Lielaka_vertiba.sh
+ 2039  ./Lielaka_vertiba.sh 4 5
+ 2040  nano Lielaka_vertiba.sh
+ 2041  ./Lielaka_vertiba.sh 4 5
+ 2042  nano Lielaka_vertiba.sh
+ 2043  ./Lielaka_vertiba.sh 4 5
+ 2044  nano Lielaka_vertiba.sh
+ 2045  ./Lielaka_vertiba.sh 
+ 2046  nano Lielaka_vertiba.sh
+ 2047  ./Lielaka_vertiba.sh 
+ 2048  nano Lielaka_vertiba.sh
+ 2049  ./Lielaka_vertiba.sh 
+ 2050  nano Lielaka_vertiba.sh
+ 2051  ./Lielaka_vertiba.sh 
+ 2052  nano Lielaka_vertiba.sh
+ 2053  ./Lielaka_vertiba.sh 
+ 2054  nano Lielaka_vertiba.sh
+ 2055  ./Lielaka_vertiba.sh 
+ 2056  nano Lielaka_vertiba.sh
+ 2057  cp  Lielaka_vertiba.sh Lielaka_vertiba_no_3.sh 
+ 2058  ls -l
+ 2059  nano Lielaka_vertiba_no_3.sh 
+ 2060  ./Lielaka_vertiba_no_3.sh 
+ 2061  history > history_20171018.txt
