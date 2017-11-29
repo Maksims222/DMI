@@ -1,0 +1,29 @@
+    1  VirtualBox --startvm XP
+    2  firefox
+    3  ssh x171REB175@213.175.92.22
+    4  ssh x171REB175@213.175.92.22
+    5  //sheit paraadaas burts "" jo x=49
+    6  // peec 1.reizes paraadaas burts "1" jo x=49
+    7  //peec 2.reizes paraadaas burts "1" jo x=49
+    8  ls-l
+    9  ls -l
+   10  cd Documents/
+   11  ls -l
+   12  cd ..
+   13  git clone https://github.com/Maksims222/DMI
+   14  ls -l
+   15  cd DMI
+   16  ls -l
+   17  cd PYTHON/
+   18  ls-l
+   19  ls -l
+   20  idle &
+   21  echo Teksts
+   22  ls -l
+   23  cat python_diary_20171129.py 
+   24  idle &
+   25  ls -l
+   26  ./ zimeshena.py 
+   27  python/zimeshena.py
+   28  cd ..
+   29  history > history_29112017
