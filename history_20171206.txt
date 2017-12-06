@@ -1,0 +1,26 @@
+    1  VirtualBox --startvm XP
+    2  firefox&
+    3  ssh -X x171REB168@213.175.92.22
+    4  firefox&
+    5  ssh -X x171REB168@213.175.92.22
+    6  ssh -x171REB175@213.175.92.22
+    7  ssh -X x171REB175@213.175.92.22
+    8  firefox
+    9  ssh x171REB175@213.175.92.22
+   10  ssh x171REB175@213.175.92.22
+   11  ssh x171REB175@213.175.92.22
+   12  cd xxarab
+   13  firefox
+   14  ls -l
+   15  git clone https://github.com/Maksims222/DMI
+   16  ls -l
+   17  cd DMI
+   18  ls -l
+   19  cd PYTHON/
+   20  idle &
+   21  ls -l
+   22  cat sin2_x_.py 
+   23  ls -l
+   24  cd ..
+   25  ls -l
+   26  history > history_20171206.txt
