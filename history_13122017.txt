@@ -1,0 +1,73 @@
+    1  VirtualBox --startvm XP
+    2  ssh -X x171REB172@213.175.92.22
+    3  ssh x171REB175@213.175.92.22
+    4  firefox
+    5  ssh x171REB175@213.175.92.22
+    6  ssh -X x171REB175@213.175.92.22
+    7  ssh x171REB1752213.175.92.22
+    8  SSH X171reb175@213.175.92.22
+    9  ssh x171REB175@213.175.92.22
+   10  ls -l
+   11  git clone https://github.com/Maksims222/DMI
+   12  ls -l
+   13  cd DMI
+   14  ls -l
+   15  cd PYTHON/
+   16  ls -l
+   17  nano variables.py 
+   18  nano dichotomy.py 
+   19  ls -l
+   20  nano derivative.py 
+   21  nano individual_derivative.py
+   22  ./individual_derivative.py
+   23  nano individual_derivative.py
+   24  ./individual_derivative.py
+   25  nano individual_derivative.py
+   26  ./individual_derivative.py
+   27  ls -l
+   28  chmod 744 individual_derivative.py 
+   29  ls -l
+   30  ./individual_derivative.py
+   31  nano individual_derivative.py
+   32  ./individual_derivative.py
+   33* 
+   34  nano individual_derivative.py
+   35  ./individual_derivative.py
+   36  nano individual_derivative.py
+   37  python individual_derivative.py
+   38  nano individual_derivative.py
+   39  python individual_derivative.py
+   40  nano individual_derivative.py
+   41  python individual_derivative.py
+   42  nano individual_derivative.py
+   43  python individual_derivative.py
+   44  nano individual_dichotomy.py
+   45  cat individual_derivative.py
+   46  nano individual_dichotomy.py
+   47  python individual_dichotomy.py
+   48  nano individual_dichotomy.py
+   49  python individual_dichotomy.py
+   50  nano individual_dichotomy.py
+   51  python individual_dichotomy.py
+   52  nano individual_dichotomy.py
+   53  python individual_dichotomy.py
+   54  ls -s
+   55  ls -l
+   56  nano derivative.py 
+   57  cat individual_derivative.py
+   58  nano derivative.py 
+   59  python derivative.py 
+   60  ls -l
+   61  python sin2_x_.py
+   62  cat sin2_x_.py
+   63  python sin2_x_.py
+   64  python individual_dichotomy.py
+   65  nano individual_dichotomy.py
+   66  ls 0l
+   67  ls -l
+   68  python individual_derivative.py 
+   69  cd ..
+   70  ls l
+   71  ls -l
+   72  history > history_13122017
+   73  history > history_13122017.txt

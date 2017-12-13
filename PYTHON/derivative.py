@@ -32,3 +32,10 @@ for i in range(n-1):
 plt.plot(x[:n-1],y_prim)
 plt.show()                  
 
+#n= len(x[:n-1])
+y_prim2= []
+for i in range (n-2):
+    y_prim2.append((y_prim[i+1]-y_prim[i])/(x[i]-x[i-1]))
+plt.plot(x[:n-2],y_prim2)
+plt.show()
+
