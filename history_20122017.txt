@@ -1,0 +1,18 @@
+    1  VirtualBox --startvm XP
+    2  ls -l
+    3  git clone https://github.com/Maksims222/DMI
+    4  ls -l
+    5  cd DIM
+    6  cd DMI
+    7  ls -l
+    8  nano lab_1.py
+    9  python lab_1.py 
+   10  nano lab_1.py
+   11  python lab_1.py 
+   12  228
+   13  python lab_1.py 
+   14  nano lab_1.py
+   15  python lab_1.py 
+   16  nano lab_1.py
+   17  history > history_20122017
+   18  history > history_20122017.txt
