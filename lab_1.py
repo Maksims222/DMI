@@ -11,8 +11,6 @@ while k <= a1:
     k5=k%5
     k10=k%10
     print "\nSKAITLIS: %d"%(k)
-    print "Dalot ar\nskaitliem:"
-    print "\t\t1 \t2 \t3 \t4 \t5 \t10"
-    print "Atlikums:"
-    print "\t\t%d \t%d \t%d \t%d \t%d \t%d"%(k1,k2,k3,k4,k5,k10)
+    print "Dalot ar\nskaitliem:\t\t1 \t2 \t3 \t4 \t5 \t10"
+    print "Atlikums:\t\t%d \t%d \t%d \t%d \t%d \t%d"%(k1,k2,k3,k4,k5,k10)
     k=k+1
