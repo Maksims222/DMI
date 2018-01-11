@@ -1,16 +1,16 @@
 #!/usr/bin/python
 
-a=input("Cienijamais lietotaj, ludzu, ievadi skaitli: ")
-k=a
-a1=a+10
-while k <= a1:
-    k1=k%1
-    k2=k%2
-    k3=k%3
-    k4=k%4
-    k5=k%5
-    k10=k%10
-    print "\nSKAITLIS: %d"%(k)
-    print "Dalot ar\nskaitliem:\t\t1 \t2 \t3 \t4 \t5 \t10"
-    print "Atlikums:\t\t%d \t%d \t%d \t%d \t%d \t%d"%(k1,k2,k3,k4,k5,k10)
-    k=k+1
+x = input("Cienijamais lietotaj, ludzu, ievadi skaitli x: ")
+print "x = ", (x)
+print "x||  \t1 | \t2 | \t3 | \t4 | \t5 | \t10 |"
+z=0
+while(z < 11):
+    a = x%1
+    b = x%2
+    c = x%3
+    d = x%4
+    e = x%5
+    f = x%10
+    print (x),"\t" , (a), "\t", (b), "\t", (c), "\t", (d), "\t", (e), "\t", (f)
+    z=z+1
+    x=x+1

@@ -26,7 +26,7 @@ plt.show()#9
 delta_x = 1.e-5 #0.001
 funa = mans_funkcija(a) 
 funb = mans_funkcija(x)
-if funa * funb > 0:
+if funa * funb > 0.4:
     print "Starp [%.2f,%.2f] funkcijai nav saknes"%(a,b)
     print "vai funkcijai šaja intervala ir paru sakņu skaits"
     exit
