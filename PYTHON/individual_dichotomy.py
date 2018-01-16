@@ -14,8 +14,11 @@ def mans_funkcija(x):
         S = S + a
     return S
 
-a = -2 #3
-b = 10 #4
+def citafunkcija(x):
+    return mans_funkcija(x)-0.3
+
+a = 0 #3
+b = 2 #4
 x = np.arange(a,b,0.01)#5
 y = mans_funkcija(x)#6a
 plt.plot(x,y)#7
@@ -24,9 +27,9 @@ plt.show()#9
 
 # funkcijas saknes meklešana
 delta_x = 1.e-5 #0.001
-funa = mans_funkcija(a) 
-funb = mans_funkcija(x)
-if funa * funb > 0.4:
+funa = mans_funkcija(a)
+funb = mans_funkcija(b)
+if funa * funb > 0:
     print "Starp [%.2f,%.2f] funkcijai nav saknes"%(a,b)
     print "vai funkcijai šaja intervala ir paru sakņu skaits"
     exit
@@ -36,9 +39,9 @@ k = 0
 while b-a > delta_x:
     k = k + 1
     x = (a + b)/2
-    funx = mans_sinuss(x)
-    print "%3d. a=%.9f f(%.9f)=%12.9f b=%.4f"%(k,a,x,funx,b,)
-    if funa * funx > 0:
+    funx = mans_funkcija(x)
+    print "%3d. a=%.9f f(%.9f)=%12.9f b=%.9f"%(k,a,x,funx,b,)
+    if funa*funx > 0:
         a = x
     else:
         b = x
