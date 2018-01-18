@@ -44,12 +44,12 @@ def mans_funkcija(x):
     
       
         
-    #print "Izdruka no liet.f. Beigas!"
+    print "Izdruka no liet.f. Beigas!"
     return S
 
 
 x = 1. *  input("Izdruka no galv.f. Lietotaj, ludzu, ievadi argumentu (x): ")
 y = sin(x/2)**2
 print "Izdruka no galv.f. standarta (sin(%.2f))^2 = %.2f"%(x/2,y)
-yy = mans_funkcija(x) #funkcija izpilde un pieğíirğana
+yy = mans_funkcija(x) #funkcija izpilde un pieÃ°Ã­irÃ°ana
 print "Izdruka no galv.f. mans_funkcija(%.2f) = %.2f"%(x,yy)
