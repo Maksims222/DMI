@@ -30,7 +30,7 @@ for i in range(n-1):
     #print (y[i+1]-y[i])/(x[i+1]-x[i])
     y_prim.append((y[i+1]-y[i])/(x[i+1]-x[i]))
 plt.plot(x[:n-1],y_prim)
-plt.show()                  
+#plt.show()                  
 
 #n= len(x[:n-1])
 y_prim2= []

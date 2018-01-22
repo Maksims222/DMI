@@ -45,7 +45,9 @@ while b-a > delta_x:
         a = x
     else:
         b = x
+
 print "a=%.9f f(%.9f)=%12.9f b=%.9f"%(a,x,funx,b,)
 print "Iteraciju skaita: %d"%(k)
+
 
 
