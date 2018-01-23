@@ -4,14 +4,14 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 def mans_sinuss(x):
-    y = np.sin(x)
+    y = x#np.sin(x)
     return y
 
 N = 100000
 x = []
 y = []
 a = 0.
-b = np.pi
+b = 4 #np.pi
 c = -4.
 d = 4.
 
