@@ -1,6 +1,6 @@
 %% Gabalveida signala montaza
 %%  Sinusoida
-t_sin = 0:0.01:1;
+t_sin = 1:0.01:2.5;
 % y_sin = A0+A*sin(2*pi*f*(t-delay))
 A0=0; A = 2.5; T = (2.5-1)/3.5; f=1/T; delay = 1;
 y_sin = A0+A*sin(2*pi*f*(t_sin-delay));
