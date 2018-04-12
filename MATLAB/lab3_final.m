@@ -3,7 +3,7 @@ t_sin_f = (t>=0)&(t<1); t_sin=t(t_sin_f);
 t_nullu_f = (t>=1)&(t<1.5);t_nullu=t(t_nullu_f);
 t_const_f = (t>=1.5)&(t<3);t_const=t(t_const_f);
 t_saw_f = (t>=3)&(t<3.5);t_saw=t(t_saw_f);
-t_noise_f = (t>=3.5)&(t<5);t_noise=t(t_noise_f);
+t_noise_f = (t>=3.5)&(t<=5);t_noise=t(t_noise_f);
 %% Gabalveida signala montaza
 %%  Sinusoida
 
