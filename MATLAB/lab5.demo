@@ -1,0 +1,217 @@
+edit
+format compact
+% sakam risinat,atradisim UR
+%ar minejuma metodi
+funx(0)
+ans =
+    1.7183
+funx(1)
+ans =
+    -1
+funx(0.5)
+ans =
+    0.1487
+funx(0.01)
+ans =
+    1.6812
+funx(0.4)
+ans =
+    0.4221
+funx(0.9)
+ans =
+   -0.7948
+funx(0.6)
+ans =
+   -0.1082
+funx(0.7)
+ans =
+   -0.3501
+funx(0.4)
+ans =
+    0.4221
+funx(0.2)
+ans =
+    1.0255
+funx(0)
+ans =
+    1.7183
+funx(0.557)
+ans =
+   3.7233e-04
+funx(0.558)
+ans =
+   -0.0022
+funx(0.556)
+ans =
+    0.0029
+%ka meklet skaitli ar njutona metodi
+syms i0 a E UR R
+diff(i0*(exp(a*(E-UR))-1)-UR/R,UR)
+ans =
+- 1/R - a*i0*exp(a*(E - UR))
+edit
+x0=0;
+delta=funx(x0)/fund(x0)
+delta =
+   -0.4621
+x0=x0-delta
+x0 =
+    0.4621
+x1=0.4621;
+delta=funx(x1)/fund(x1)
+delta =
+   -0.0923
+x1=x1-delta
+x1 =
+    0.5544
+x0=0.4621;
+delta=funx(x0)/fund(x0)
+delta =
+   -0.0923
+x0=x0-delta
+x0 =
+    0.5544
+x0=0.5544;
+delta=funx(x0)/fund(x0)
+delta =
+   -0.0027
+x0=x0-delta
+x0 =
+    0.5571
+x0=0.5571;
+delta=funx(x0)/fund(x0)
+delta =
+  -4.5598e-05
+x0=x0-delta
+x0 =
+    0.5571
+edit
+newmet5
+x0
+x0 =
+     0
+newmet5
+<a href="matlab: opentoline('/home/user/DMI/MATLAB/newmet5.m',2,1)">2   </a>epsilon = 1e-3;
+delta
+delta =
+  -4.5598e-05
+delta
+delta =
+  -4.5598e-05
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+delta
+delta =
+   -0.4621
+if system_dependent('IsDebugMode')==1, dbcont; end
+newmet5
+x0 =
+    0.4621
+x0 =
+    0.5544
+x0 =
+    0.5571
+x0 =
+    0.5571
+newmet5
+<a href="matlab: opentoline('/home/user/DMI/MATLAB/newmet5.m',2,1)">2   </a>if nargin == 0 
+nargin
+ans =
+     0
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+nargin
+ans =
+     0
+if system_dependent('IsDebugMode')==1, dbcont; end
+x0 =
+    0.4621
+x0 =
+    0.5544
+x0 =
+    0.5571
+x0 =
+    0.5571
+newmet5
+<a href="matlab: opentoline('/home/user/DMI/MATLAB/newmet5.m',2,1)">2   </a>if nargin == 0 
+if system_dependent('IsDebugMode')==1, dbcont; end
+x0 =
+    0.4621
+x0 =
+    0.5544
+x0 =
+    0.5571
+x0 =
+    0.5571
+edit lab5.m
+lab5
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('newmet5')" style="font-weight:bold">newmet5</a>
+Too many output arguments.
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('lab5', '/home/user/DMI/MATLAB/lab5.m', 6)" style="font-weight:bold">lab5</a> (<a href="matlab: opentoline('/home/user/DMI/MATLAB/lab5.m',6,0)">line 6</a>)
+    Ur = newmet5;} 
+lab5
+x0 =
+    0.4621
+x0 =
+    0.5544
+x0 =
+    0.5571
+x0 =
+    0.5571
+<a href="matlab: opentoline('/home/user/DMI/MATLAB/lab5.m',7,1)">7   </a>    Urt = [Urt, Ur]
+if system_dependent('IsDebugMode')==1, dbcont; end
+Urt =
+    0.5571
+x0 =
+    0.4621
+x0 =
+    0.5544
+x0 =
+    0.5571
+x0 =
+    0.5571
+if system_dependent('IsDebugMode')==1, dbcont; end
+Urt =
+    0.5571    0.5571
+dbquit
+lab5
+<a href="matlab: opentoline('/home/user/DMI/MATLAB/lab5.m',7,1)">7   </a>    Urt = [Urt, Ur]
+if system_dependent('IsDebugMode')==1, dbcont; end
+Urt =
+    0.5571
+if system_dependent('IsDebugMode')==1, dbcont; end
+Urt =
+    0.5571    0.5571
+if system_dependent('IsDebugMode')==1, dbcont; end
+Urt =
+    0.5571    0.5571    0.5571
+if system_dependent('IsDebugMode')==1, dbcont; end
+Urt =
+    0.5571    0.5571    0.5571    0.5571
+if system_dependent('IsDebugMode')==1, dbcont; end
+Urt =
+    0.5571    0.5571    0.5571    0.5571    0.5571
+if system_dependent('IsDebugMode')==1, dbcont; end
+Urt =
+    0.5571    0.5571    0.5571    0.5571    0.5571    0.5571
+lab5
+<a href="matlab: opentoline('/home/user/DMI/MATLAB/lab5.m',7,1)">7   </a>    Urt = [Urt, Ur];
+if system_dependent('IsDebugMode')==1, dbcont; end
+lab5
+%ielikt savu diodi 
+%mainit i0 a
+% ielikt savu signalu no 3 lab
+lab5
+lab5
+lab5
+lab5
+lab5
+syms i0 Ud id a
+solve (id==i0*(exp(a*Ud)-1),a )
+ans =
+log(id/i0 + 1)/Ud
+lab5
+diary off
