@@ -8,7 +8,8 @@ t_noise_f = (t>=3.5)&(t<=5);t_noise=t(t_noise_f);
 %%  Sinusoida
 
 % y_sin = A0+A*sin(2*pi*f*(t-delay))
-A0=0; A = 2.5; T = (1-0)/4; f=1/T; delay = 1;
+A0=0; A = 2.5; T = (1-0)/4; f=1/T; 
+delay = 1;
 y_sin = A0+A*sin(2*pi*f*(t_sin-delay));
 
 %% Lineari mainigs signals

@@ -1,0 +1,133 @@
+ 
+int_sin =
+ 
+0
+ 
+ 
+int_saw =
+ 
+-1/16
+ 
+ 
+int_const =
+ 
+15/4
+ 
+Error: <a href="matlab: opentoline('/home/user/DMI/MATLAB/lab6.m',38,34)">File: lab6.m Line: 38 Column: 34
+</a>Expression or statement is incorrect--possibly unbalanced (, {, or [.
+
+ 
+int_const =
+ 
+15/4
+ 
+Undefined function or variable 'int_cost'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('lab6', '/home/user/DMI/MATLAB/lab6.m', 42)" style="font-weight:bold">lab6</a> (<a href="matlab: opentoline('/home/user/DMI/MATLAB/lab6.m',42,0)">line 42</a>)
+ista_vv = 1/5*(int_cost+int_saw+int_sin)
+
+ 
+ista_vv =
+ 
+59/80
+ 
+
+xvid3a =
+
+    0.5000
+
+
+xvid3am =
+
+    0.5000
+
+
+xvid3a =
+
+    0.7400
+
+
+xvid3am =
+
+    0.5000
+    0.7400
+
+
+xvid3a =
+
+    0.7378
+
+
+xvid3am =
+
+    0.5000
+    0.7400
+    0.7378
+
+
+xvid3a =
+
+    0.7375
+
+
+xvid3am =
+
+    0.5000
+    0.7400
+    0.7378
+    0.7375
+
+
+xvid3a =
+
+    0.5000
+
+
+xvid3am =
+
+    0.5000
+
+
+xvid3a =
+
+    0.7400
+
+
+xvid3am =
+
+    0.5000
+    0.7400
+
+
+xvid3a =
+
+    0.7378
+
+
+xvid3am =
+
+    0.5000
+    0.7400
+    0.7378
+
+
+xvid3a =
+
+    0.7375
+
+
+xvid3am =
+
+    0.5000
+    0.7400
+    0.7378
+    0.7375
+
+simulink
+dt = 0.01
+
+dt =
+
+    0.0100
+
+diary off
